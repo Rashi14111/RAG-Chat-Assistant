@@ -97,13 +97,13 @@ RAG-Chat-Assistant/
 
 ### Document Upload + Chat Interaction
 
-<img width="100%" alt="RAG Chatbot UI" src="documentation/screenshots/chat_interface_1.png">
+![RAG Chatbot UI](documentation/screenshots/chat_interface_1.png.jpeg)
 
 ---
 
 ### Multi-Query Conversation Example
 
-<img width="100%" alt="RAG Chatbot Conversation" src="documentation/screenshots/chat_interface_2.png">
+![RAG Chatbot Conversation](documentation/screenshots/chat_interface_2.png.jpeg)
 
 ---
 
